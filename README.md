@@ -12,7 +12,7 @@ Build and evaluate five supervised classification models to predict whether an i
 - Preprocessing: missing categorical marker `?` is normalized to missing; numeric features are median-imputed and scaled; categorical features are most-frequent-imputed and one-hot encoded. Stratified 80:20 train/test split (random_state=42).
 
 ## c. GitHub Repository Link
-Add your repository URL here after creating and pushing the repository.
+https://github.com/2026aj05509/adult-census-ml-classification/tree/main
 
 Dataset reference (Kaggle): https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
